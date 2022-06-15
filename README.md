@@ -11,4 +11,4 @@ Do not forget to view my open source projects below 👇🏻
   <summary>More...</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=cemozan34&show_icons=true&count_private=true&theme=dark" />
 </details>
-1
+
