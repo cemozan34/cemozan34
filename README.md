@@ -5,8 +5,6 @@ I'm a passionate software developer living in Izmir, Turkey. I love being part o
 - 💻 [What am I doing about Open Source? (GitHub, you're already here)](https://github.com/cemozan34)
 - 🏹 [Curriculum vitae, the path of my life (LinkedIn)](https://www.linkedin.com/in/cem-ozan-526672202/)
 
-Do not forget to view my open source projects below 👇🏻
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=cemozan34&show_icons=true&count_private=true&theme=dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cemozan34&layout=compact"/>
 
@@ -24,3 +22,5 @@ Do not forget to view my open source projects below 👇🏻
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+
+Do not forget to view my open source projects below 👇🏻
