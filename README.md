@@ -11,7 +11,7 @@ Do not forget to view my open source projects below 👇🏻
 <img src="https://github-readme-stats.vercel.app/api?username=cemozan34&show_icons=true&count_private=true&theme=dark" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cemozan34&theme=dracula)](https://github.com/cemozan34/cemozan34)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cemozan34&layout=compact"/>
 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
