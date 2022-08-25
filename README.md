@@ -7,10 +7,9 @@ I'm a passionate software developer living in Izmir, Turkey. I love being part o
 
 Do not forget to view my open source projects below 👇🏻
 
-<details>
-  <summary>More...</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=cemozan34&show_icons=true&count_private=true&theme=dark" />
-</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cemozan34)](https://github.com/cemozan34/cemozan34)
+ <img src="https://github-readme-stats.vercel.app/api?username=cemozan34&show_icons=true&count_private=true&theme=dark" />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cemozan34&theme=dracula)](https://github.com/cemozan34/cemozan34)
 
